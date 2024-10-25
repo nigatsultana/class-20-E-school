@@ -1,0 +1,58 @@
+
+font-family:
+poppens-400,500,700
+roboto-400
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+color:
+light green: #F0FFF0;
+green: #21B573;
+black: #000000;
+white: #FFFFFF;
+red: #FD511A;
+
+--pop: "Poppins", sans-serif;
+--rob:"Roboto", sans-serif;
+
+--green: #21B573;
+--red: #FD511A;
+--black:#000000;
+
+                   
+padding-header
+
+xxl/xl/lg top bottom-17
+md-                  17
+sm/col--60-70        5
+
+banner padding bottom
+
+xxl/xl/lg           65px
+md-                  65px
+sm/col--60-70        5
+
+h1
+xxl/xl/lg -48px
+md-
+sm/col-
+
+order
+size
+space
+alingment
+
+feature
+padding   100px 
+course title
+h1-36px sm-   
